@@ -1,0 +1,10 @@
+.container{
+    /* font-family: "Lato", sans-serif; */
+    color: white;
+    text-shadow: 2px 4px 8px rgba(0, 0, 0, 0.361);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    font-weight: bolder;
+}
